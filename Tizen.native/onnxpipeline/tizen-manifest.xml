@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="8.0" package="org.example.onnxpipeline" version="1.0.0">
+	<profile name="tizen" />
+	<ui-application appid="org.example.onnxpipeline" exec="onnxpipeline" type="capp" multiple="false" taskmanage="true" nodisplay="false" launch_mode="single">
+		<icon>onnxpipeline.png</icon>
+		<label>onnxpipeline</label>
+	</ui-application>
+</manifest>
